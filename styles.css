@@ -628,8 +628,8 @@ body{
 
 /* Animation */
 .myclass {
-  animation: animated-text 4s steps(29,end) 1s 1 normal both,
-             animated-cursor 500ms steps(29,end) infinite;
+  animation: animated-text 5s steps(12,end) 1s 1 normal both,
+             animated-cursor 500ms steps(12,end) infinite;
 }
 
 /* text animation */
